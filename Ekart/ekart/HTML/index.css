@@ -1,0 +1,8 @@
+# image_banner{
+padding-top: 75px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background: url(image/intro-bg_1.jpg);
+background-size:cover;
+}
